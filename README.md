@@ -121,11 +121,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 View build queue
 
-  - [gatsbystudymaster.gatsbyjs.io](https://gatsbystudymaster.gatsbyjs.io/)
+  - [shopifystorestudymaster.gatsbyjs.io](https://shopifystorestudymaster.gatsbyjs.io/)
 
 Last published build
 
-  - [gatsbystudymaster.gtsb.io](https://gatsbystudymaster.gtsb.io/)
+  - [shopifystorestudymaster.gtsb.io](https://shopifystorestudymaster.gtsb.io/)
 
 ## 💫 Deploy
 
